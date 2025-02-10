@@ -16,5 +16,4 @@ namespace eStoreClient.Pages
         {
         }
     }
-
 }

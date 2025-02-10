@@ -1,0 +1,16 @@
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\bin\Debug\net8.0\DataAccess.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\bin\Debug\net8.0\BusinessObjects.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\bin\Debug\net8.0\BusinessObjects.pdb
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

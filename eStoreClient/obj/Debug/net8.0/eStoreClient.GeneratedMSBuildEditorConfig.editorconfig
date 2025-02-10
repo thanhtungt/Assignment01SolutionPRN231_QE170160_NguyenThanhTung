@@ -26,12 +26,84 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/MemberPage/AddMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZVxBZGRNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/MemberPage/DeleteMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZVxEZWxldGVNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/MemberPage/Member.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZVxNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/MemberPage/UpdateMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyUGFnZVxVcGRhdGVNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/OrderPage/AddOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJQYWdlXEFkZE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/OrderPage/DeleteOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJQYWdlXERlbGV0ZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/OrderPage/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJQYWdlXE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/OrderPage/ReportOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJQYWdlXFJlcG9ydE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/OrderPage/UpdateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJQYWdlXFVwZGF0ZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/ProductPage/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/ProductPage/DeleteProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcRGVsZXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/ProductPage/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/ProductPage/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VcVXBkYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/SPRING2025/PRN231/ass1/Assignment01SolutionPRN231_QE170160_NguyenThanhTungg/eStoreClient/Pages/_ViewImports.cshtml]

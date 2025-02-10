@@ -1,0 +1,15 @@
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+F:\SPRING2025\PRN231\ass1\Assignment01SolutionPRN231_QE170160_NguyenThanhTungg\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
